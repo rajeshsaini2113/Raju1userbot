@@ -15,7 +15,7 @@ For any query or want to know how it works join
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/japarmar/GujjuBot
+git clone https://github.com/rajeshsaini2113/Rajuuserbot
 cd GujjuBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
